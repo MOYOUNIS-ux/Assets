@@ -206,7 +206,7 @@
 
 <script>
     // الرابط الجديد الذي أرسلته تم وضعه هنا لضمان السرعة
-    const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbys1sC31enc0SQOd80U2P-4HMFYmReVmAY0ZwGYnqZZFzescUP2wCjFqZbegITaFV59/exec";
+    const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbwnQ1sIzCpgqlkqmRE3iiTW53NlWViXCJgERa9aBHzw7vcPjlOO94lSztTDss3oTM_N/exec";
     let html5QrCode;
 
     function manualSearch() {
